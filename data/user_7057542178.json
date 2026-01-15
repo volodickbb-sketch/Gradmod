@@ -1,0 +1,13 @@
+{
+  "language": "ru",
+  "tests": [
+    {
+      "date": "2025-12-31T18:34:02.221265",
+      "scores": {
+        "personal": 66.7,
+        "study": 35.7,
+        "total": 51.2
+      }
+    }
+  ]
+}

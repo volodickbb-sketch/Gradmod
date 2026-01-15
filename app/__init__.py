@@ -1,0 +1,1 @@
+"""GradMood application package"""
